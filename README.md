@@ -110,6 +110,7 @@ Unit tests are located in the tests' directory.
 These tests cover various functionalities of the project, including data collection, analysis, and class methods.
 
 - test_data_analysis.py:
+
 This module contains tests of the following functions:
 
     calculate_distance
@@ -118,6 +119,7 @@ This module contains tests of the following functions:
     generate_mapping
 
 - test_data_collecting.py:
+
 This module contains tests of the following functions:
 
     get_response
@@ -128,6 +130,7 @@ This module contains tests of the following functions:
     build_url
 
 - test_data_preparing.py:
+
 This module contains tests of the following functions:
 
     read_bus_position_files
