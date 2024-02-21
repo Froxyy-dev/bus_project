@@ -1,0 +1,480 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KAB04",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KAB04",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "667",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "668",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "667",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "668",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "667",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "668",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "667",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "668",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "667",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "668",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "667",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "668",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "668",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:58:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

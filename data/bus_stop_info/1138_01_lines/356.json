@@ -1,0 +1,788 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:06:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

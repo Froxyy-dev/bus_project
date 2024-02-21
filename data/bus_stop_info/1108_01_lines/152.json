@@ -1,0 +1,1768 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-TRC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:51:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

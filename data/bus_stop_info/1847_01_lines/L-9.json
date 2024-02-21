@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:02:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

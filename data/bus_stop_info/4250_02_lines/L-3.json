@@ -1,0 +1,508 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK-W",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK-W",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK-W",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK-W",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PIK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:54:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

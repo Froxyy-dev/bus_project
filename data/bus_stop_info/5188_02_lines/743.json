@@ -1,0 +1,732 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "786",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Parkowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wolica k.P\u0142ochocina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WOL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:19:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NWD2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NWD2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-NWD1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:56:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

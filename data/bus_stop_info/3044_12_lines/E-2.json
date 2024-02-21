@@ -1,0 +1,704 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Bankowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BAN2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Bankowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BAN2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Bankowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BAN4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Bankowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BAN4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Bankowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BAN4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Bankowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BAN2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Ratusz-Arsena\u0142",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Bankowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BAN2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:30:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

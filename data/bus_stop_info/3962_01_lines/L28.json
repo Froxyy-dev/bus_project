@@ -1,0 +1,228 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "53",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Baniocha-Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BAN-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "53",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Klarysew",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KLA-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "53",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Baniocha-Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BAN-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "53",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Klarysew",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KLA-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "53",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Baniocha-Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BAN-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "53",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Klarysew",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KLA-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "51",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Baniocha-Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BAN-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "51",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Klarysew",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KLA-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:05:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

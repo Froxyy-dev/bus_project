@@ -1,0 +1,1488 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIECP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIECP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WLW02",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wilan\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:45:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

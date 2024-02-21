@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czynszowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-T1STA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czynszowa",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-T1STA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowe Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-T1NBM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:30:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

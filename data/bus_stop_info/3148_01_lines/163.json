@@ -1,0 +1,480 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE-O",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE-O",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE-O",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stegny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-STE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:56:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

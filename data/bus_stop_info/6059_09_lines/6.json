@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-4MML",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-4MML",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-4MML",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "014",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-4MML",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:29:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

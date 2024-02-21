@@ -1,0 +1,732 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP D\u0105bkowizna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-DAB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:09:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

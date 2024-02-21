@@ -1,0 +1,312 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MARW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MARW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MAR-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "297",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MAR-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MAR-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "297",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Marysin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MAR-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:46:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

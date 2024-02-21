@@ -1,0 +1,480 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "215",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:10:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

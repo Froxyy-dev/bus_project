@@ -1,0 +1,256 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "q",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MML-H",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "q",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MML-H",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "q",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MML-H",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "q",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MML-H",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "q",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MML-H",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "h",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skibi\u0144skiego",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRUH",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "h",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skibi\u0144skiego",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRUH",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "h",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skibi\u0144skiego",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRUH",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "h",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skibi\u0144skiego",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-TRUH",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:28:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

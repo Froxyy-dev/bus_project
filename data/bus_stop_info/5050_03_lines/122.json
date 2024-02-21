@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "675",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GOR53",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:34:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

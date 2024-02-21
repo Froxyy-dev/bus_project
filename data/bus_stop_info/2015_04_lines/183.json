@@ -1,0 +1,2356 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-0ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-0ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-0ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zielona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:50:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3TARK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3TAKP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3TAKP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:45:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

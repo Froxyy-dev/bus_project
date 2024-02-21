@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "714",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Groty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:22:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

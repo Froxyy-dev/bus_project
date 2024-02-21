@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "247",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Centralny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DWC-N",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "245",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Centralny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DWC-O",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "246",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Centralny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DWC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "247",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Centralny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DWC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:31:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

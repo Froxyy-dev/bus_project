@@ -1,0 +1,228 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "184",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P\u0142owiecka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PLO6",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P\u0142owiecka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PLO6",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "185",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P\u0142owiecka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PLO6",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:57:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

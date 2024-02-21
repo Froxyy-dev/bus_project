@@ -1,0 +1,60 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "63",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZEA KLESZCZOWA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-PIO1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "61",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZEA KLESZCZOWA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-PIO1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:34:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

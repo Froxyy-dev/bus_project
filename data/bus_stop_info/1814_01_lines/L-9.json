@@ -1,0 +1,676 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "712",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEM-W",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "712",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "712",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-K",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "711",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEM-W",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "504",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "504",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-K",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "u",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KOM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-K",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "504",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "504",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-K",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "505",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "712",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "505",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-K",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "712",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-K",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-K",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "u",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "712",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "712",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-K",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "712",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEM-W",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEG-K",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:10:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

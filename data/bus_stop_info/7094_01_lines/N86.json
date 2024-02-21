@@ -1,0 +1,172 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "261",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "156",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "258",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "260",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "261",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZEA WORONICZA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-DWC70",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "257",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Osma\u0144ska-DHL",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DHL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:52:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

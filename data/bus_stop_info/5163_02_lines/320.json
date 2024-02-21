@@ -1,0 +1,144 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "601",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Fort Radiowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-FRAP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "787",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Fort Radiowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-FRAA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "787",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BEM6",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "714",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Fort Radiowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-FRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "714",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BEM7",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:59:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

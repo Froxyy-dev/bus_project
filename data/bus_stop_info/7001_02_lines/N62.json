@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "225",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Wo\u0142omin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WPW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "227",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Wo\u0142omin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WPW1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "n",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "226",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Niepodleg\u0142o\u015bci",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "128",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Wo\u0142omin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WPW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:47:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

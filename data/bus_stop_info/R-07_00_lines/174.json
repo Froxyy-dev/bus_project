@@ -1,0 +1,144 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "rondo ONZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-7DWC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Bokserska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-7BOKX",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Bokserska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-7BOKX",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "371",
+                    "key": "brygada"
+                },
+                {
+                    "value": "rondo ONZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-7DWC5",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Bokserska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-7BOKX",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:14:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

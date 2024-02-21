@@ -1,0 +1,760 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:14:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

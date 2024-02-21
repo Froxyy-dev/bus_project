@@ -1,0 +1,200 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "102",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "102",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "101",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "208",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "206",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "208",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "205",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZEA KLESZCZOWA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-CEN1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:57:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

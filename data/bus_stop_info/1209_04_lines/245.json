@@ -1,0 +1,1824 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZMA2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:13:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Annopol",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ANN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Annopol",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ANN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Annopol",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ANN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "016",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Annopol",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ANN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-ANN3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-ANN3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-ANN3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:15:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MML-Y",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MML-Y",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:54:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

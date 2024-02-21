@@ -1,0 +1,60 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1NWD",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursyn\u00f3w P\u0142n.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1UPN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:25:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

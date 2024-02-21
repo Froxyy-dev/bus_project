@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Fort Wola",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3FWL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Fort Wola",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3FWL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Fort Wola",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3FWL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:43:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

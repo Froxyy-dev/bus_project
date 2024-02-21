@@ -1,0 +1,396 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-0RZA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-0RZA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "61",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-RZA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rzakta",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RZA-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:55:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

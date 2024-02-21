@@ -1,0 +1,620 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.P\u00f3\u0142nocny-Brama G\u0142.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CMP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Prozy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Prozy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Prozy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:41:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

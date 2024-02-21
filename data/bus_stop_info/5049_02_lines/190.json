@@ -1,0 +1,928 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "014",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "015",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "12",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "015",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "016",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "12",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:16:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,816 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZNO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "03:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "65",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "62",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "63",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "63",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "63",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "63",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "66",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "65",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "66",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "65",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NZO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "71",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Bia\u0142obrzegi",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "72",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Bia\u0142obrzegi",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:48:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

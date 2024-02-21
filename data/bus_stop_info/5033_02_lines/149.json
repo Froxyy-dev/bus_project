@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "662",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Groty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GROK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:46:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

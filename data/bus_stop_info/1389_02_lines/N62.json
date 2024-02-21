@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "n",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "226",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Niepodleg\u0142o\u015bci",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:53:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

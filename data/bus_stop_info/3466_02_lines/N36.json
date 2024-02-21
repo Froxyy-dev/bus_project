@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "371",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Centralny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DWC2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "258",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Centralny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DWC2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "159",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Centralny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DWC2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:20:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

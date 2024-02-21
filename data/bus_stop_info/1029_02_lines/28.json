@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET PRAGA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GOR2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET PRAGA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GOR2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET PRAGA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GOR2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET PRAGA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GOR2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:58:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

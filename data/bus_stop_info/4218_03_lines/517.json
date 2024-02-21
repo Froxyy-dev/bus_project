@@ -1,0 +1,2440 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "452",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-TOR6",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "453",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-TOR6",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-CEN1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "015",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-CEN1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-CEN1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-CEN1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "016",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-TOR3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-CEN1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Krucza",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KRU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "014",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Krucza",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KRU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Krucza",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KRU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "015",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Krucza",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KRU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "239",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "237",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Torwar",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-TOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:29:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

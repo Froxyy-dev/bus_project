@@ -1,0 +1,676 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL-R",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:10:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

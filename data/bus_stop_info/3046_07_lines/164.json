@@ -1,0 +1,228 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIECP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "K\u0119pa Zawadowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KEPWP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "EC Siekierki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SIECP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "K\u0119pa Zawadowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KEP-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "K\u0119pa Zawadowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KEPCP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "K\u0119pa Zawadowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KEPCP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "K\u0119pa Zawadowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KEPCP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "K\u0119pa Zawadowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KEPWP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:49:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

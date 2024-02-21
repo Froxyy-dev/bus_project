@@ -1,0 +1,396 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "501",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "503",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "501",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GOC5",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GOC5",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "503",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GOC5",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOCD",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "501",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GOCD",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "503",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "501",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142aw",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GOC5",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:06:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

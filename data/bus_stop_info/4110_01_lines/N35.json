@@ -1,0 +1,172 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "239",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-CEN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "237",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-CEN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "136",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-CEN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "237",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-CEN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "138",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-CEN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "101",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-CEN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:08:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

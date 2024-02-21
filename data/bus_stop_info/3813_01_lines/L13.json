@@ -1,0 +1,620 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "685",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "685",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zalesie G\u00f3rne",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "685",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zalesie G\u00f3rne",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "685",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zalesie G\u00f3rne",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "685",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zalesie G\u00f3rne",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "685",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zalesie G\u00f3rne",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zalesie G\u00f3rne",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "685",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zalesie G\u00f3rne",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "685",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zalesie G\u00f3rne",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "685",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "683",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GKR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:03:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

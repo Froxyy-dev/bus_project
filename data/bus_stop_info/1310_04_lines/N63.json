@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "245",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Centralny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DWC-O",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:37:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

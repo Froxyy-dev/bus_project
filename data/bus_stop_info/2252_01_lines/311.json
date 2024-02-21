@@ -1,0 +1,872 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "501",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "503",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "501",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "503",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "501",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "503",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "502",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kamionek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KMN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:48:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

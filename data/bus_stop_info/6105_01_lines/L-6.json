@@ -1,0 +1,704 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BOMBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BOMBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BEMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilaszk\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-BOMPR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:35:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

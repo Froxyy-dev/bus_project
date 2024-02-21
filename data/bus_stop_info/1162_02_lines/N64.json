@@ -1,0 +1,172 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Choszcz\u00f3wka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CHO-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Choszcz\u00f3wka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CHO-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "h",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Choszcz\u00f3wka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CHO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "h",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Choszcz\u00f3wka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CHO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Choszcz\u00f3wka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CHOSK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Choszcz\u00f3wka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CHOSK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "29:27:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

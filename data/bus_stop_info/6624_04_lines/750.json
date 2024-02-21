@@ -1,0 +1,1264 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3wek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "b",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3wek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kie\u0142pin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kie\u0142pin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kie\u0142pin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3wek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kie\u0142pin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL-D",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3wek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL-D",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3wek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL-D",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3wek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3wek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Palmiry",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "D\u0119bina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DEB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:17:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

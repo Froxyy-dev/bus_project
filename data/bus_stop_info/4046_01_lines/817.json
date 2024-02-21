@@ -1,0 +1,424 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DWZ",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DWZ",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-DWZ",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "03",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Zachodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GSO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:17:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

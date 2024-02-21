@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:57:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,564 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WZ9RA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "32",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WZ9RA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "34",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Legionowo Piaski",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Legionowo Piaski",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "32",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Legionowo Piaski",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "34",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Legionowo Piaski",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "32",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Legionowo Piaski",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "34",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "32",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Legionowo Piaski",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "34",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Radzymin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCRA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "32",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Legionowo Piaski",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wieliszew",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WLCWI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Legionowo Piaski",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLCLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:52:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

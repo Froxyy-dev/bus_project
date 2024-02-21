@@ -1,0 +1,60 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaski",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3PIAV",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Banacha",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3BAN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:43:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

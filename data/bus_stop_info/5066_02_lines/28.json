@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "015",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "016",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "015",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "016",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.G\u00f3rczewska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1GOR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:50:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

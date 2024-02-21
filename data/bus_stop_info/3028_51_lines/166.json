@@ -1,0 +1,1684 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "661",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "343",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "661",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "343",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "661",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "343",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Kabaty-STP",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-STP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "661",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "343",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "661",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "343",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "661",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "343",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MKA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "261",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MKA03",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "262",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Kabaty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MKA03",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:01:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

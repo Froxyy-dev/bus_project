@@ -1,0 +1,144 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "j",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "206",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Szwedzki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-JAN-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "j",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "205",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Szwedzki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-JAN-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "j",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "206",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Szwedzki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-JAN-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "206",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CEN-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "205",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Centrum",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CEN-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:59:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

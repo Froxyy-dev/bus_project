@@ -1,0 +1,200 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZAW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "rondo Starzy\u0144skiego",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3RST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZAW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "rondo Starzy\u0144skiego",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3RST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Elsner\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ELS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Zacisze-Wilno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZAW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "212",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Elsner\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ELS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:27:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

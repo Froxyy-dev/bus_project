@@ -1,0 +1,5856 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "019",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "020",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "035",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "032",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "27",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "29",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "016",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "033",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "21",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "034",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "036",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "037",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "031",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "035",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "019",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "26",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "12",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "24",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "27",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "020",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "25",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "14",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "032",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "033",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "30",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "015",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "28",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "034",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET \u017bOLIBORZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-12SL4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "29",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "016",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "036",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "21",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "037",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET \u017bOLIBORZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-12SL4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "22",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET \u017bOLIBORZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-SLU4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "24",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "25",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "26",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "12",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "27",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "28",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "14",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "29",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "30",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "21",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "22",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "24",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "25",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "26",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "27",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "28",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "29",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "30",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "12",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "21",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "22",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "14",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "24",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "25",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "26",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "27",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "28",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "033",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "29",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "30",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "21",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "031",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "22",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "032",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "036",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "24",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "12",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "25",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "019",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "034",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "26",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "14",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "27",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "020",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "035",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "28",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "29",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "30",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "037",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "015",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "031",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "032",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "033",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "016",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "21",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "24",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "22",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "034",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "036",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "27",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "25",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "12",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "28",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "019",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "26",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "30",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "14",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "035",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "29",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "033",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "037",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET \u017bOLIBORZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-12SL4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "21",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "015",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "032",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "22",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "016",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "25",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "24",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "26",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "035",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "033",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "032",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "22",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET \u017bOLIBORZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-12SL4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "24",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-12MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "26",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET \u017bOLIBORZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-12SL4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "11",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET \u017bOLIBORZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-SLU4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:28:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

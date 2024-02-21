@@ -1,0 +1,368 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "784",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "691",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "783",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "692",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "692",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "691",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "692",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "691",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "\u0141o\u015b",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PIS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "691",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "691",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Zgoda",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PID",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "691",
+                    "key": "brygada"
+                },
+                {
+                    "value": "\u0141o\u015b",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PIS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:25:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

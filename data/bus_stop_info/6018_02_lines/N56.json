@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3w Le\u015bny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3w Le\u015bny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dziekan\u00f3w Le\u015bny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DZI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Pilcha",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-ZBO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:38:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

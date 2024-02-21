@@ -1,0 +1,60 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GOK-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GOK-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:37:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

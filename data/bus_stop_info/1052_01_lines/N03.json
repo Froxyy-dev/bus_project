@@ -1,0 +1,144 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "u",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursyn\u00f3w P\u0142n.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-UPN-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "u",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursyn\u00f3w P\u0142n.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-UPN-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "u",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursyn\u00f3w P\u0142n.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-UPN-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "u",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursyn\u00f3w P\u0142n.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-UPN-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WIA-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:29:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

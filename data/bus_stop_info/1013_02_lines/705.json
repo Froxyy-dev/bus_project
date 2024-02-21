@@ -1,0 +1,60 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Opolska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZNO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "03:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "r",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "65",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Rynia",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3RYN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:17:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

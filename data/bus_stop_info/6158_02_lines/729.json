@@ -1,0 +1,424 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE-Z",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE-Z",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MBE-Z",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MBE03",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MBE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Bemowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MBE03",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:09:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

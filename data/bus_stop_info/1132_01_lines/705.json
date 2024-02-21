@@ -1,0 +1,816 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "71",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "72",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "65",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "62",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "63",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "63",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "63",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "63",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "66",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "65",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "66",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "65",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MRM-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RMRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "64",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZEA STALOWA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-NZO3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:25:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

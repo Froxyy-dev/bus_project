@@ -1,0 +1,704 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-7WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "03:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.Po\u0142udniowy-Brama P\u0142d.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CPD-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "422",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.Po\u0142udniowy-Brama P\u0142d.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CPD-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "422",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.Po\u0142udniowy-Brama P\u0142d.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CPD-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "422",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.Po\u0142udniowy-Brama P\u0142d.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CPD-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "422",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.Po\u0142udniowy-Brama P\u0142d.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CPD-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.Po\u0142udniowy-Brama P\u0142d.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CPD-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Cm.Po\u0142udniowy-Brama P\u0142d.",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CPD-C",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:08:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "426",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "422",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "429",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:02:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

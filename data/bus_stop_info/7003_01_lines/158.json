@@ -1,0 +1,1936 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "211",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1OSTP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OSTP3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OSTP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OSTP3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OSTP3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OSTP3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OSTP3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OSTP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OSTP3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OSTP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OSTP3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OSTP3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OSTP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "211",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Witolin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OST",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:12:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

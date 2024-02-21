@@ -1,0 +1,620 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:11:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Wilsona",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PLW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:10:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

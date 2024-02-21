@@ -1,0 +1,816 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "454",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "454",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "454",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "454",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "454",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "454",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-OLE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "y",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OLE-Y",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "f",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "454",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Olesin",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-OLE-F",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "\u017bera\u0144 Wschodni",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-ZWS-F",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:19:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

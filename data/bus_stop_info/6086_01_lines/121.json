@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "f",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "432",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Gwia\u017adzista",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GWI-H",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:40:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

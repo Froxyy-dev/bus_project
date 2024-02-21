@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "431",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Marymont",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MRM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:34:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

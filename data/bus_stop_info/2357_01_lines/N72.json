@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "215",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Miasto",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-KAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "214",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Miasto",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-KAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "219",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stare Miasto",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KAR",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "o",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "215",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Orla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-ORL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:14:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-0WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-0WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:26:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

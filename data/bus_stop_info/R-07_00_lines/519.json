@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Powsin-Park Kultury",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-7POW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:35:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

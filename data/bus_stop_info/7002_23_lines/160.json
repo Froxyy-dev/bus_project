@@ -1,0 +1,984 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "715",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "518",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "515",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "516",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "517",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "513",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "514",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "515",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "516",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "517",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "518",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "519",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "513",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "514",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "515",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "516",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "517",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "715",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "518",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "519",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "513",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "514",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "715",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "518",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "519",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "513",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GRO1T",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "514",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GROT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "518",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "519",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "716",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GRO1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "515",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "283",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GRO1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "517",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "514",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GRO1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "518",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Grodzisk",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-GRO1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:33:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

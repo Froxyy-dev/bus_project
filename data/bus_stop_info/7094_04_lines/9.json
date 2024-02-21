@@ -1,0 +1,592 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "26",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "10",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "019",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "24",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "30",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "27",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:07:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "P+R Al.Krakowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3OKE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "019",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:29:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2104 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:43:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:52:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Konwiktorska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KON",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Skorosze",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-SKOD9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:01:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

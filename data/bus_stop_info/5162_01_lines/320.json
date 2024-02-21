@@ -1,0 +1,60 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "787",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Groty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "714",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Groty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:39:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

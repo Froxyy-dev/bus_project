@@ -1,0 +1,928 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:58:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Ursus",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-PKU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:53:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

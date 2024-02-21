@@ -1,0 +1,200 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "136",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursus-Nied\u017awiadek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-URN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "237",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursus-Nied\u017awiadek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-URN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "138",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursus-Nied\u017awiadek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-URN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "101",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursus-Nied\u017awiadek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-URN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "138",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursus-Nied\u017awiadek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-URN4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "136",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursus-Nied\u017awiadek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-URN4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:53:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "101",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ursus-Nied\u017awiadek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-URN4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "29:23:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

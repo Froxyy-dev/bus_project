@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET \u017bOLIBORZ",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-STA4",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:11:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

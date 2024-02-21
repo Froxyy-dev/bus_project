@@ -1,0 +1,340 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "v",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wieliszew-Pla\u017ca",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WPL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "500",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "500",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "500",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "k",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "500",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Komornica-Szko\u0142a",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-KOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wieliszew-Pla\u017ca",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WPL-B",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "500",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wieliszew-Pla\u017ca",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WPL-B",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wieliszew-Pla\u017ca",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WPL-B",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "500",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wieliszew-Pla\u017ca",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WPL-B",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:03:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,732 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "019",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:13:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "30",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:39:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GCW3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GCW3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "019",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-WIA3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-WIA3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GCW3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Wiatraczna",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3WIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "019",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Goc\u0142awek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3GCW",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "27",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GCW3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:46:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-WIA3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:42:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GCW3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "9",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-WIA3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "8",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-WIA3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:57:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "017",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-WIA3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "018",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-WIA3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GCW3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "23",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GCW3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:26:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-GCW3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:36:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

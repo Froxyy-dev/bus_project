@@ -1,0 +1,60 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZPS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZPS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:07:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

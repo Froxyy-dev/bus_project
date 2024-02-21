@@ -1,0 +1,200 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "182",
+                    "key": "brygada"
+                },
+                {
+                    "value": "M\u0142ociny-UKSW",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MLO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "283",
+                    "key": "brygada"
+                },
+                {
+                    "value": "M\u0142ociny-UKSW",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MLO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "181",
+                    "key": "brygada"
+                },
+                {
+                    "value": "M\u0142ociny-UKSW",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MLO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "182",
+                    "key": "brygada"
+                },
+                {
+                    "value": "M\u0142ociny-UKSW",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MLO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "283",
+                    "key": "brygada"
+                },
+                {
+                    "value": "M\u0142ociny-UKSW",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MLO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "182",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MML",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "181",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MML",
+                    "key": "trasa"
+                },
+                {
+                    "value": "29:01:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

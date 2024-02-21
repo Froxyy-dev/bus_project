@@ -1,0 +1,60 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Mi\u0119dzylesie",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-0MIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Mi\u0119dzylesie",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-0MIE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:30:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

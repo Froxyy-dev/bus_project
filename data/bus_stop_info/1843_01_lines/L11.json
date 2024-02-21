@@ -1,0 +1,536 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "504",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "505",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "h",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "500",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "h",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "712",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP-U",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "505",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:36:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "711",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "505",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "713",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "504",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP-H",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "505",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP-G",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "504",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "505",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "e",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "505",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LEP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:01:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

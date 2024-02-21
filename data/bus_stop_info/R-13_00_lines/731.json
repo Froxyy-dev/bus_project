@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "477",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.M\u0142odych",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3LOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "03:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "478",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.M\u0142odych",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3LOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "479",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.M\u0142odych",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3LOM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:26:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

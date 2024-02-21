@@ -1,0 +1,1628 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:44:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:47:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:01:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:18:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "06",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:34:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "07",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MILU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:33:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:03:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "09",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MILU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MIL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MILU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Stara Mi\u0142osna (U\u0142a\u0144ska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MILU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:59:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

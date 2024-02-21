@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "787",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Fort Radiowo",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-FRAA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:28:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "787",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Groty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "714",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Groty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:48:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "714",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Groty",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-GRO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:48:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

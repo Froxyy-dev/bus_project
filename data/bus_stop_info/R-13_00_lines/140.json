@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "066",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czarna Struga",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3CZS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "03:32:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "064",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czarna Struga",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3CZS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "08",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czarna Struga",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3CZS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "04",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czarna Struga",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3CZS",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:42:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

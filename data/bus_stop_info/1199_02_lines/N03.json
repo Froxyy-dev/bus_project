@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-WIN-S",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:20:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

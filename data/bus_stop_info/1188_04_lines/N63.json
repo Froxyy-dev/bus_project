@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "246",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Chotom\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CHT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "247",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Chotom\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CHT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "245",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Chotom\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-CHT",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "246",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Mickiewicza",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-LEM",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:38:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

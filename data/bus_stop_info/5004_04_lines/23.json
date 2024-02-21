@@ -1,0 +1,144 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET WOLA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-STA1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:37:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "6",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET WOLA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-STA1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:49:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET WOLA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-STA1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:38:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "012",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET WOLA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-STA1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "010",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET WOLA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-STA1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:47:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

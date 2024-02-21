@@ -1,0 +1,172 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NWD2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NWD2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NWD",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NWD",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-NWD",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "x",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Nowodwory",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-NWD1",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:25:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

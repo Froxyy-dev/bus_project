@@ -1,0 +1,564 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "42",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WGPI",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "44",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "41",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "43",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "45",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "42",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "41",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "44",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "45",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "43",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:19:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "41",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "42",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "45",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "44",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "41",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "43",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:31:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "42",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "44",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "41",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "45",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Piaseczno",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ZPPIA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:23:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

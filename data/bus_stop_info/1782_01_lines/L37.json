@@ -1,0 +1,452 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:59:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:00:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:14:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:15:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:02:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:49:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET PRAGA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-FSO2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "013",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET PRAGA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-BOE2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET PRAGA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-BOE2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:09:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET PRAGA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-FSO2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:35:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "p",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET PRAGA",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-BOE2",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:35:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

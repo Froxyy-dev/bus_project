@@ -1,0 +1,256 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:51:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Szpital Powiatowy",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-SZP-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "02",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tur\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OSK-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tur\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OSK-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tur\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OSK-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:27:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tur\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OSK-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tur\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-OSK-M",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:37:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

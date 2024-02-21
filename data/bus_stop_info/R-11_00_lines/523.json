@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Olszynka Grochowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1OLSB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:45:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "7",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Olszynka Grochowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1OLSB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:06:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "13",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Olszynka Grochowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1OLSB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:54:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "14",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Olszynka Grochowska",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1OLSB",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:02:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

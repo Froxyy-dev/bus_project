@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "2",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "03:50:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:20:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "05",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:40:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "a",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "1",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Maczka",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3ZMA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:55:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

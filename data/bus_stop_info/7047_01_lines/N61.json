@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "111",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czarna Struga",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MWC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "121",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czarna Struga",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MWC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "123",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czarna Struga",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MWC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "111",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Czarna Struga",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-MWC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:24:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

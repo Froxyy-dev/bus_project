@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro M\u0142ociny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3MML",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "225",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Wschodni (Kijowska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3DWK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "w",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "226",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Dw.Wschodni (Kijowska)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3DWK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:10:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,536 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-WIWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "05:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "34",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "06:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "07:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "32",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "08:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "09:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LPWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "10:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "34",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LPWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "11:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "32",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "12:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LPWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "13:30:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "14:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "34",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LPWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "15:23:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "32",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LPWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "18:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "34",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "32",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "20:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "33",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-RAWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "31",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Lotnisko Chopina",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-LPWLC",
+                    "key": "trasa"
+                },
+                {
+                    "value": "22:24:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "z",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "34",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Warszawa Zachodnia (Peron 9)",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-RAWZ9",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:24:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

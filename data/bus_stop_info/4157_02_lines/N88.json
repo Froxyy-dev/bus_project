@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "j",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "206",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Szwedzki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-JAN-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:22:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "j",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "205",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Szwedzki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-JAN-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "j",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "206",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Szwedzki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-JAN-P",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:21:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "205",
+                    "key": "brygada"
+                },
+                {
+                    "value": "pl.Szwedzki",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-JAN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:10:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

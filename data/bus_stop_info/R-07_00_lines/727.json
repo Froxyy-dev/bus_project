@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "g",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "W\u0142adys\u0142aw\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-7WLA",
+                    "key": "trasa"
+                },
+                {
+                    "value": "03:21:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

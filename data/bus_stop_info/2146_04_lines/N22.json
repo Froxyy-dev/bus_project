@@ -1,0 +1,172 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "203",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Aleksandr\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ALE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "204",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Aleksandr\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ALE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "203",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Aleksandr\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ALE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "204",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Aleksandr\u00f3w",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-ALE",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "203",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Falenica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-FAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "c",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "204",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Falenica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-FAL",
+                    "key": "trasa"
+                },
+                {
+                    "value": "29:05:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

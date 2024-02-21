@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "01",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo Przystanek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3PLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "03:56:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "475",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo Przystanek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3PLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:16:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "476",
+                    "key": "brygada"
+                },
+                {
+                    "value": "PKP Legionowo Przystanek",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-3PLP",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:36:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

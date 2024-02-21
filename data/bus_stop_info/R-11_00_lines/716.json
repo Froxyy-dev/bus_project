@@ -1,0 +1,32 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "61",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Ogi\u0144skiego",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TD-1PIO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "04:17:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

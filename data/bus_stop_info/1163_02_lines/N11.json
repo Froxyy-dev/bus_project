@@ -1,0 +1,228 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "123",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Derby",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DER",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "110",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Derby",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DER",
+                    "key": "trasa"
+                },
+                {
+                    "value": "23:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "212",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Derby",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DER",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "122",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Derby",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DER",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "110",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Derby",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DER",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "212",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Derby",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DER",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:55:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "121",
+                    "key": "brygada"
+                },
+                {
+                    "value": "os.Derby",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TP-DER",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:25:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "s",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "122",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Metro Kondratowicza",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-MKO",
+                    "key": "trasa"
+                },
+                {
+                    "value": "28:55:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

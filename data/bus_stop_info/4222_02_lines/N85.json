@@ -1,0 +1,116 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "138",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Os.Staszica/P\u0119tla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-PRU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "24:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "239",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Os.Staszica/P\u0119tla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-PRU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "25:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "136",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Os.Staszica/P\u0119tla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-PRU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "26:10:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "null",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "140",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Os.Staszica/P\u0119tla",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TO-PRU",
+                    "key": "trasa"
+                },
+                {
+                    "value": "27:10:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

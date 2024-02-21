@@ -1,0 +1,144 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "024",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-13TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:17:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "023",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-13TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "16:41:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "022",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-13TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:05:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "021",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Tarchomin Ko\u015bcielny",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-13TAK",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:29:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "t",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "011",
+                    "key": "brygada"
+                },
+                {
+                    "value": "Winnica",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TX-13WIN",
+                    "key": "trasa"
+                },
+                {
+                    "value": "17:51:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}

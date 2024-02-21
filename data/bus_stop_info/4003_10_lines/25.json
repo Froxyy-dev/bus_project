@@ -1,0 +1,88 @@
+{
+    "result": [
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "5",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-ANN3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "19:12:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "3",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-ANN3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:04:00",
+                    "key": "czas"
+                }
+            ]
+        },
+        {
+            "values": [
+                {
+                    "value": "null",
+                    "key": "symbol_2"
+                },
+                {
+                    "value": "m",
+                    "key": "symbol_1"
+                },
+                {
+                    "value": "4",
+                    "key": "brygada"
+                },
+                {
+                    "value": "ZET MOKOT\u00d3W",
+                    "key": "kierunek"
+                },
+                {
+                    "value": "TZ-ANN3",
+                    "key": "trasa"
+                },
+                {
+                    "value": "21:16:00",
+                    "key": "czas"
+                }
+            ]
+        }
+    ]
+}
