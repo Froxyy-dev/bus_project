@@ -156,6 +156,7 @@ def get_speeding(bus_distances_array: List[np.array], time_difference_array: Lis
                         district_speeding_points[mean_point_district] += 1
 
                 current_length = 0
+                first_point = Point(-1, -1)
             else:
                 if first_point == Point(-1, -1):
                     first_point = convert_position(bus_position_array[transition][bus])
